@@ -98,6 +98,7 @@ body{
     width: 75vw;
     height: 100vh;
     transition: .25s;
+    background: linear-gradient(180deg, #15191C 20%, #1D232A 80%);
     
     position: absolute;
     left: -100vw;
@@ -112,6 +113,7 @@ body{
     align-self: center;
     width: 118px;
     padding: 16px;
+    cursor: pointer;
 }
 
 .menu-left__link{
@@ -120,6 +122,13 @@ body{
     padding-left: 64px;
     display: flex;
     align-items: center;
+}
+
+.menu-left__link:hover{
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+    transition: .3s;
 }
 
 .menu-left__link--active{
@@ -233,7 +242,7 @@ body{
 }
 
 .card__title {
-    font-size: 1.2rem;
+    font-size: 1em;
     font-weight: 700;
     grid-column: span 2;
 }
