@@ -411,6 +411,7 @@ body{
     .products-section {
         grid-area: products-section;
     }
+}
 
 /* Picos */
     .card__button--peak::before{
@@ -428,4 +429,118 @@ body{
         box-sizing: border-box;
         align-self: flex-start;
     }
-}
+
+    .peaks-map{
+        width: 100%;
+        height: 468px;
+        background-image: url(../img/mapa-picos.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 15px;
+    }
+
+    /* Artigo */
+    .article{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .article-image{
+        width: 100%;
+        height: 277px;
+        background-image: url(../img/artigo_1.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        left: 0px;
+        top: 56px;
+    }
+
+    .article-title{
+        font-size: 1.2rem;
+        font-weight: 700;
+        padding: 16px;
+    }
+
+    .article-info{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        align-content: center;
+        justify-content: baseline;
+        padding: 0 16px; 
+        gap: 32px;
+        font-size: 1.1em;
+    }
+
+    .article-profile{
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        column-gap: 8px;
+        align-items: center;
+        justify-self: flex-end;
+    }
+
+    .article-profile::before{
+        content:"";
+        display: block;
+        width: 32px;
+        height: 32px;
+        background-image: url(../img/profile_2.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .article-views::before {
+        content: "\e90f";
+        margin-right: 8px;    
+    }
+
+    .article-text{
+        padding: 16px;
+        font-size: 1.1rem;
+        line-height: 2.25rem;
+    }
+
+    .article-map{
+        width: 90%;
+        height: 338px;
+        margin: 0 auto;
+        background-image: url(../img/artigo_2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 15px;
+    }
+
+    .article_images{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .article-image_1{
+        width: 90%;
+        height: 338px;
+        margin: 0 auto 16px auto;
+        background-image: url(../img/artigo_3.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 15px;
+    }
+
+    .article-image_2{
+        width: 90%;
+        height: 338px;
+        margin: 0 auto 16px auto;
+        background-image: url(../img/artigo_4.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 15px;
+    }
