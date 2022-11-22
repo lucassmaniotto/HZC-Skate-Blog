@@ -289,7 +289,7 @@ body{
     width: 40px;
     height: 40px;
     border-radius: 10px;
-    font-size: 1.1rem;
+    font-size: 1rem;
     justify-self: flex-end;
     cursor: pointer;
 }
