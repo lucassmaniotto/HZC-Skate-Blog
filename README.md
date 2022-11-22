@@ -5,7 +5,7 @@ Site desenvolvido no curso de FlexBox e Grid da Alura.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **HZC**
-| :label: Tecnologias | html, css
+| :label: Tecnologias | html, css, javascript 
 |  🖥  Curso     | https://cursos.alura.com.br/formacao-html-e-css
 | :rocket: URL         | https://lucassmaniotto.github.io/HZC-Skate-Blog/
 
@@ -13,7 +13,7 @@ Site desenvolvido no curso de FlexBox e Grid da Alura.
 
 ## Detalhes do projeto
 
-O projeto foi desenvolvido com a metodologia Mobile-First e de Responsivo a diferentes telas de exibição durante o curso [CSS: dispondo elementos com Flexbox e Grid](https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid), contando com 3 páginas e 2 artigos baseados no template [Figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358) disponibilizado durante as aulas.
+O projeto foi desenvolvido com a metodologia Mobile-First e de forma Responsiva a diferentes telas de exibição durante o curso [CSS: dispondo elementos com Flexbox e Grid](https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid), contando com 3 páginas e 2 artigos baseados no template [Figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358), que foi disponibilizado durante as aulas.
 
 ### Home
 A página principal apresenta os principais vídeos do blog e seus produtos, juntamente a links para artigos no card
