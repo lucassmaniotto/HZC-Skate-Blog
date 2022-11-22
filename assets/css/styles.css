@@ -665,7 +665,7 @@ body{
 
         .article-video{
             width: 100%;
-            min-height: 468px;
+            min-height: 60vh;
             max-height: 821px;
             left: 0px;
             top: 56px;
