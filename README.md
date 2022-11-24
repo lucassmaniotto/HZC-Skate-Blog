@@ -39,7 +39,7 @@ Nessa página é possível visualizar um template de artigo e sua imagem como ca
 > ![Gap do Itaú da Voluntários da Pátria](https://user-images.githubusercontent.com/101435037/203370713-16735605-a580-4672-9186-b13cdc6fb2f9.png)
 
 ### Responsividade
-O projeto é 100% responsivo e pensando no usuário de diversos dispositivos, sendo adapdado para cada tela de dispositivo:
+O projeto é 100% responsivo e pensando no usuário de diversos dispositivos, sendo adapdado para cada um:
 
 https://user-images.githubusercontent.com/101435037/203374085-491051a4-d6c2-456c-8e00-f7d3a634177f.mp4
 
