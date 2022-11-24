@@ -7,7 +7,7 @@ Site desenvolvido no curso de FlexBox e Grid da Alura.
 | :sparkles: Nome        | **Huflez Skate Blog**
 | :label: Tecnologias | html, css, javascript 
 |  🖥  Curso     | https://cursos.alura.com.br/formacao-html-e-css
-| :rocket: URL         | https://lucassmaniotto.github.io/HZC-Skate-Blog/
+| :rocket: URL         | https://hzc-skate-blog-n4ps.vercel.app/
 
 ![logo](https://user-images.githubusercontent.com/101435037/203361891-2af23d15-92d2-4447-8407-32e27c892ebe.png#vitrinedev)
 
