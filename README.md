@@ -41,5 +41,4 @@ Nessa página é possível visualizar um template de artigo e sua imagem como ca
 ### Responsividade
 O projeto é 100% responsivo e pensando no usuário de diversos dispositivos, sendo adapdado para cada um:
 
-https://user-images.githubusercontent.com/101435037/203374085-491051a4-d6c2-456c-8e00-f7d3a634177f.mp4
-
+[![Watch the video](https://user-images.githubusercontent.com/101435037/212350066-bd4d41d9-8715-4b6e-89f7-fce88536887d.png)](https://user-images.githubusercontent.com/101435037/203374085-491051a4-d6c2-456c-8e00-f7d3a634177f.mp4)
